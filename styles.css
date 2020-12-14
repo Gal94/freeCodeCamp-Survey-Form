@@ -77,7 +77,7 @@ body::before {
       rgba(58, 58, 158, 0.8),
       rgba(136, 136, 206, 0.7)
     ),
-    url('./images/survey-form-background.jpeg');
+    url('https://github.com/Gal94/freeCodeCamp-Survey-Form/blob/master/images/survey-form-background.jpeg?raw=true');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
