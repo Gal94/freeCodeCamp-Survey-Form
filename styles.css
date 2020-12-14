@@ -45,6 +45,11 @@
   display: block;
 }
 
+.survey-form__input-div p {
+  font-size: 1.3rem;
+  margin-bottom: 0.2rem;
+}
+
 * {
   margin-top: 0;
   box-sizing: border-box;
@@ -117,6 +122,10 @@ label {
 textarea {
   height: 7rem;
   border-radius: 2px;
+}
+
+span {
+  font-size: 1.1rem;
 }
 
 /* DESKTOP VIEW */
