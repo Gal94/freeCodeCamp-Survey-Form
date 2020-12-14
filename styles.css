@@ -77,7 +77,7 @@ body::before {
       rgba(58, 58, 158, 0.8),
       rgba(136, 136, 206, 0.7)
     ),
-    url('/images/survey-form-background.jpeg');
+    url('./images/survey-form-background.jpeg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
